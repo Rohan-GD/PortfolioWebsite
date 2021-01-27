@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://quirky-roentgen-327968.netlify.app/"
 languageCode = "en-us"
 title = "My personal blog"
 theme = "ezhil"
