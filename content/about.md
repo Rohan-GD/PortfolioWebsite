@@ -1,8 +1,7 @@
 ---
 title: "About"
-date: 2021-01-27T21:37:58+05:30
-type: "page"
+date: 2021-01-27T14:28:38+05:30
+draft: false
+disqus: false
 ---
-
-Heyyy! I am Rohan George, I am an Electrical Engineering undergrad at College of Engineering Trivandrum.
-
+Heyyy!
