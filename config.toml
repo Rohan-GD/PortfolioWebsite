@@ -1,6 +1,6 @@
 baseURL = "https://quirky-roentgen-327968.netlify.app/"
 languageCode = "en-us"
-title = "My personal blog"
+title = "Blog"
 theme = "ezhil"
 
 copyright = "© Copyright notice"
