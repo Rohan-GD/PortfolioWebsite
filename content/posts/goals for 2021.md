@@ -1,7 +1,9 @@
 ---
-title: "About"
+title: "Goals for 2021"
 date: 2021-02-6T01:54:38+05:30
 draft: false
+description: "I suppose I am starting this blog in this new year so I am putting my goals for this year as the first post.
+"
 disqus: false
 ---
 I suppose I am starting this blog in this new year so I am putting my goals for this year as the first post.
