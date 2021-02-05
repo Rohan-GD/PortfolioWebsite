@@ -24,7 +24,8 @@ I suppose I am starting this blog in this new year so I am putting my goals for 
 
      As James Clear states in his book Atomic Habits about *motion* and *action*, I am still in the *motion* phase, which is thinking about and planning about doing more projects whereas this goal makes me transition into the *action* phase (where I actually do some work) over a period of time.
 
-- [ ]  Improve French (and Japanese ^_^ ) 🇫🇷 🇯🇵
+- [ ]  Improve French (and Japanese ^_^ )\
+
 
     After a very dramatic event that occurred 2 years ago at the Allianz Français, tvm, I lost touch with my really hard earned French proficiency, no lie here. So I want to kickstart that again along with learning Japanese so that one day I can watch anime without any subtitles ✨
 
