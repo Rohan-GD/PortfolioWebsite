@@ -3,7 +3,10 @@ title: "2021_goals"
 date: 2021-02-07T19:19:18+05:30
 draft: false
 disqus: false
+description: "my goals for this year"
 ---
+
+I want this year to be the most productive in my life so that I can get closer to my future goals in a more controlled manner with proper habit building techniques and effective study methods. So on of my goals this year is to create a blog, where I will frequently post content about my life, some technology I am interested in and maybe some stuff related to productivity. This is my first post and I thought I will make it about  my goals for this year. 
 - **Start writing a blog**
 
 I want to start writing about stuff that I am interested in or the stuff that I am most associated with, like weird stories, book reviews, technical reviews and also life experiences. Also some project tutorials.
