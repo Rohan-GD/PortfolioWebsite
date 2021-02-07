@@ -5,7 +5,7 @@ draft: false
 disqus: false
 ---
 
-## Heyyy! ,I'm Rohan
+## Heyyy!,I'm Rohan
 
  I'm an electrical engineer and a total weeb who enjoys binge watching anime in my free time and also making some hardware projects. Most of my days are spent watching anime, researching about some cool hardware projects in hackster.io, planning my future projects and thinking about ways to make my life more productive with various productivity tactics. This year I am planning to spend some time working on my blog to improve my writing skills so that I can finally be a *writer*.
 
@@ -16,5 +16,5 @@ disqus: false
   If you want to talk me about anime, hardware projects or football(*I'm an Arsenal fan btw*), you can reach me here :
 
   [Twitter](https://twitter.com/rohan_gd)&nbsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/_rohan.g_/)
-  
+
   or send a mail at rohan.geo.2001@gmail.com
