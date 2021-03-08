@@ -1,7 +1,7 @@
 ---
 title: "2021_goals"
 date: 2021-02-07T19:19:18+05:30
-draft: true
+draft: false
 disqus: false
 description: "my goals for this year"
 ---
